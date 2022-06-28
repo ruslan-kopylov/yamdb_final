@@ -1,3 +1,6 @@
+[workflow](https://github.com/ruslan-kopylov/yamdb_final>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
+
 # Проект Yamdb.
 ***
 Проект YaMDb собирает отзывы пользователей на различные произведения.
