@@ -9,7 +9,6 @@ services:
   web:
     image: prbzdj/yamdb:latest
     build:
-      context: ../api_yamdb
       dockerfile: ../api_yamdb/Dockerfile
     restart: always
     volumes:
