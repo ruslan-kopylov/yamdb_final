@@ -9,7 +9,7 @@ services:
   web:
     image: prbzdj/yamdb:latest
     build:
-      dockerfile: ../api_yamdb/Dockerfile
+      dockerfile: ../api_yamdb/
     restart: always
     volumes:
       - static_value:/app/static/
