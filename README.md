@@ -1,4 +1,4 @@
-[![api_yamdb workflow](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/main.yml)
+[![api_yamdb workflow](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 # Проект Yamdb.
 ***
