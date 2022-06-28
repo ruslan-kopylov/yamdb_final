@@ -8,6 +8,9 @@ services:
       - ./.env
   web:
     image: prbzdj/yamdb:latest
+    build:
+      context: api_yamdb
+      dockerfile: ../api_yamdb
     restart: always
     volumes:
       - static_value:/app/static/
