@@ -1,6 +1,5 @@
 [![api_yamdb workflow](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/main.yml/badge.svg)](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/main.yml)
 
-
 # Проект Yamdb.
 ***
 Проект YaMDb собирает отзывы пользователей на различные произведения.
