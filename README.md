@@ -1,6 +1,6 @@
 [![api_yamdb workflow](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/ruslan-kopylov/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
-# Проект Yamdb.
+# Проект [Yamdb].
 ***
 Проект YaMDb собирает отзывы пользователей на различные произведения.
 ***
@@ -122,3 +122,5 @@ http://127.0.0.1:8000/redoc/
 * Рогозов Михаил
 * Копылов Руслан
 * Худайнатова Елизавета
+
+[Yamdb]:http://yamdb-kopylov.ddns.net/api/v1/
