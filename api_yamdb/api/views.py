@@ -16,7 +16,6 @@ from rest_framework_simplejwt.tokens import RefreshToken
 
 from reviews.models import Category, Genre, Review, Title
 from users.models import User
-
 from .api_mixins import ListCreateDestroyViewSet
 from .api_permissions import AuthorOrReadOnly, IsAdmin, IsAdminOrReadOnly
 from .filters import TitleFilter

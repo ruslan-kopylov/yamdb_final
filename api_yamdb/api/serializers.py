@@ -5,7 +5,6 @@ from rest_framework.relations import SlugRelatedField
 
 from reviews.models import Category, Comment, Genre, Review, Title
 from users.models import User
-
 from .utils import is_me
 
 
