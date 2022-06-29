@@ -122,4 +122,4 @@ http://127.0.0.1:8000/redoc/
 * Копылов Руслан
 * Худайнатова Елизавета
 
-[Yamdb]:http://yamdb-kopylov.ddns.net/api/v1/
+[Yamdb]:http://yamdb-kopylov.ddns.net/redoc/
