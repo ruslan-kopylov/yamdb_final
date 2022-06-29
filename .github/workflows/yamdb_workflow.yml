@@ -58,8 +58,7 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         passphrase: ${{ secrets.PASSPHRASE }}
         script: |
-            sudo docker-compose stop
-            sudo docker-compose rm web
+            sudo docker-compose down
             sudo touch .env
             sudo chmod 777 .env
             sudo echo SECRET_KEY=${{ secrets.SECRET_KEY }} >> .env
