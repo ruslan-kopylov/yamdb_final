@@ -59,6 +59,7 @@ jobs:
         passphrase: ${{ secrets.PASSPHRASE }}
         script: |
             sudo docker-compose down
+            sudo docker rmi prbzdj/yamdb
             sudo rm .env
             sudo touch .env
             sudo chmod 777 .env
